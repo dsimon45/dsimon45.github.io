@@ -50,7 +50,7 @@
 				<!-- One -->
 					<section id="one" class="wrapper style2 spotlights">
 						<section>
-							<a href="#" class="image"><img src="images/M87_BH.jpg" alt="" data-position="center center" /></a>
+							<a href="generic.html" class="image"><img src="images/M87_BH.jpg" alt="" data-position="center center" /></a>
 							<div class="content">
 								<div class="inner">
 									<h2>Supermassive Blackholes</h2>
@@ -62,7 +62,7 @@
 							</div>
 						</section>
 						<section>
-							<a href="#" class="image"><img src="images/M87.jpg" alt="" data-position="top center" /></a>
+							<a href="generic.html" class="image"><img src="images/M87.jpg" alt="" data-position="top center" /></a>
 							<div class="content">
 								<div class="inner">
 									<h2>Galaxy Evolution</h2>
