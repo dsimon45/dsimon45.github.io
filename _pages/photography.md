@@ -2,14 +2,29 @@
 layout: page
 permalink: /photography/
 title: photography
-description: just some pictures
+description: a growing collection of photos from places I've been
 nav: true
 nav_order: 6
-calendar: true
+horizontal: false
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+<!-- _pages/photography.md -->
+<div class="projects">
+{% assign sorted_galleries = site.galleries | sort: "importance" %}
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
-
-{% include courses.liquid %}
+{% if page.horizontal %}
+  <div class="container">
+    <div class="row row-cols-1 row-cols-md-2">
+    {% for gallery in sorted_galleries %}
+      {% include galleries.liquid %}
+    {% endfor %}
+    </div>
+  </div>
+{% else %}
+  <div class="row row-cols-1 row-cols-md-3">
+    {% for gallery in sorted_galleries %}
+      {% include galleries.liquid %}
+    {% endfor %}
+  </div>
+{% endif %}
+</div>

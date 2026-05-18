@@ -164,6 +164,9 @@ collections:
     output: true
   teachings:
     output: true
+  galleries:
+    output: true
+    permalink: /photography/:path/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -237,6 +240,13 @@ defaults:
       path: "assets"
     values:
       sitemap: false
+  - scope:
+      path: ""
+      type: "galleries"
+    values:
+      layout: "gallery"
+      images:
+        photoswipe: true
 
 sass:
   style: compressed

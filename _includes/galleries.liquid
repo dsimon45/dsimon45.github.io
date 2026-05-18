@@ -1,0 +1,20 @@
+<div class="col">
+  <a href="{{ gallery.url | relative_url }}">
+    <div class="card h-100 hoverable">
+      {% if gallery.img %}
+        {%
+          include figure.liquid
+          loading="eager"
+          path=gallery.img
+          sizes="250px"
+          alt="gallery thumbnail"
+          class="card-img-top"
+        %}
+      {% endif %}
+      <div class="card-body">
+        <h2 class="card-title">{{ gallery.title }}</h2>
+        <p class="card-text">{{ gallery.description }}</p>
+      </div>
+    </div>
+  </a>
+</div>
