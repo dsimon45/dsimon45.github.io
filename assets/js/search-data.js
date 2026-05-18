@@ -424,6 +424,21 @@ ninja.data = [{
           description: "photos from trips around China",
           section: "Galleries",handler: () => {
               window.location.href = "/photography/china_photos/";
+            },},{id: "galleries-india-photos",
+          title: 'India Photos',
+          description: "photos from trips around India",
+          section: "Galleries",handler: () => {
+              window.location.href = "/photography/india_photos/";
+            },},{id: "galleries-taiwan-photos",
+          title: 'Taiwan Photos',
+          description: "photos from trips around Taiwan",
+          section: "Galleries",handler: () => {
+              window.location.href = "/photography/taiwan_photos/";
+            },},{id: "galleries-thailand-photos",
+          title: 'Thailand Photos',
+          description: "photos from trips around Thailand",
+          section: "Galleries",handler: () => {
+              window.location.href = "/photography/thailand_photos/";
             },},{id: "galleries-uk-photos",
           title: 'UK Photos',
           description: "photos from trips around the UK",
