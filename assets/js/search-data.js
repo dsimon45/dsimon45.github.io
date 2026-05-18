@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-cv",
           title: "CV",
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
@@ -39,31 +32,24 @@ ninja.data = [{
           },
         },{id: "nav-photography",
           title: "photography",
-          description: "just some pictures",
+          description: "a growing collection of photos from places I&#39;ve been",
           section: "Navigation",
           handler: () => {
             window.location.href = "/photography/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
+        },{id: "dropdown-academic-family-tree",
+              title: "academic family tree",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/books/";
+                window.location.href = "/academic-family-tree/";
               },
-            },{id: "dropdown-blog",
-              title: "blog",
+            },{id: "dropdown-favorite-things",
+              title: "favorite things",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/blog/";
+                window.location.href = "/favorite-things/";
               },
             },{id: "post-a-post-with-plotly-js",
         
@@ -433,6 +419,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "galleries-china-photos",
+          title: 'China Photos',
+          description: "photos from trips around China",
+          section: "Galleries",handler: () => {
+              window.location.href = "/photography/china_photos/";
+            },},{id: "galleries-uk-photos",
+          title: 'UK Photos',
+          description: "photos from trips around the UK",
+          section: "Galleries",handler: () => {
+              window.location.href = "/photography/uk_photos/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
