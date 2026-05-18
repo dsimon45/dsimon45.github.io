@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-  <!---
     <p>555 your office number</p>
+  <!---
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
     -->
@@ -29,7 +29,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Now a postdoc at Westlake. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Grew up in California and Utah before going to [Boston University University](https://www.bu.edu) to study Physics and Math. Went on to the [University of Oxford](https://www.ox.ac.uk) where I did my Masters and DPhil in Astrophysics. Spent time at the [Max Planck Institute for Astrophysics](https://www.mpa-garching.mpg.de) in Munich and [Tsinghua University](https://www.tsinghua.edu.cn/en/) in Beijing. Now a postdoc at [Westlake University](https://en.westlake.edu.cn) in Hangzhou 西湖大学. . 
+
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
