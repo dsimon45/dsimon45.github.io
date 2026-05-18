@@ -78,7 +78,8 @@ layout: default
           {% assign captions_map = page.captions %}
         {% endif %}
         {% assign folder_prefix = folder | append: '/' %}
-        {% assign image_exts = '.jpg,.jpeg,.png,.gif,.webp,.JPG,.JPEG,.PNG,.GIF,.WEBP' | split: ',' %}
+        {% comment %} Exclude `.webp` because jekyll-imagemagick auto-generates webp variants from JPG/PNG sources. {% endcomment %}
+        {% assign image_exts = '.jpg,.jpeg,.png,.gif,.tiff,.JPG,.JPEG,.PNG,.GIF,.TIFF' | split: ',' %}
         {% for static in site.static_files %}
           {% assign in_folder = static.path | slice: 0, folder_prefix.size %}
           {% if in_folder == folder_prefix and image_exts contains static.extname %}
