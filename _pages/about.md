@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Astrophysicist and Writer
 
 profile:
   align: right
@@ -25,9 +25,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Grew up in Southern California and Utah before going to [Boston University](https://www.bu.edu) to study Physics and Math. Went on to the [University of Oxford](https://www.ox.ac.uk) where I did my Masters and DPhil in Astrophysics. Spent time at the [Max Planck Institute for Astrophysics](https://www.mpa-garching.mpg.de) in Munich and [Tsinghua University](https://www.tsinghua.edu.cn/en/) in Beijing. Now a postdoc at [Westlake University](https://en.westlake.edu.cn) in Hangzhou 西湖大学.
+Grew up in Southern California and Utah before going to [Boston University](https://www.bu.edu) to study Physics and Math. Went on to the [University of Oxford](https://www.ox.ac.uk) where I did my Masters and DPhil in Astrophysics. During my DPhil I spent time at the [Max Planck Institute for Astrophysics](https://www.mpa-garching.mpg.de) in Munich and [Tsinghua University](https://www.tsinghua.edu.cn/en/) in Beijing. Now a postdoc at [Westlake University](https://en.westlake.edu.cn) in Hangzhou.
 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on the application of Integral Field Spectroscopy to Galaxy Dynamics. My interests are in Supermassive Blackholes, Galactic Kinematics, and Machine Learning. I'm happy to receive email. 
 
 

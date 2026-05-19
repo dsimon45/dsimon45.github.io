@@ -1,6 +1,6 @@
 cv:
   name: David A. Simon
-  label: DPhil Candidate in Astrophysics
+  label: Postdoc at Westlake University
   email: david.simon@physics.ox.ac.uk
   # phone: "+44 7902 472160"
   # location: Oxford, UK
@@ -39,7 +39,7 @@ cv:
         end_date: 2021
 
       - institution: Boston University
-        location: Boston, MA, USA
+        location: Boston, USA
         area: Physics (with honors) & Mathematics
         studyType: B.A.
         start_date: 2016
