@@ -421,14 +421,29 @@ ninja.data = [{
               window.location.href = "/books/the_godfather/";
             },},{id: "galleries-china-photos",
           title: 'China Photos',
-          description: "photos from trips around China",
+          description: "photos from many short trips from Bejing including Xi&#39;an, Tianjin, Luoyang, Shenyang, Hangzhou and more.",
           section: "Galleries",handler: () => {
               window.location.href = "/photography/china_photos/";
+            },},{id: "galleries-germany-photos",
+          title: 'Germany Photos',
+          description: "photos from trips around Germany",
+          section: "Galleries",handler: () => {
+              window.location.href = "/photography/germany_photos/";
             },},{id: "galleries-india-photos",
           title: 'India Photos',
           description: "photos from trips around India",
           section: "Galleries",handler: () => {
               window.location.href = "/photography/india_photos/";
+            },},{id: "galleries-italy-photos",
+          title: 'Italy Photos',
+          description: "photos from trips around Italy",
+          section: "Galleries",handler: () => {
+              window.location.href = "/photography/italy_photos/";
+            },},{id: "galleries-mexico-photos",
+          title: 'Mexico Photos',
+          description: "photos from trips around Mexico",
+          section: "Galleries",handler: () => {
+              window.location.href = "/photography/mexico_photos/";
             },},{id: "galleries-taiwan-photos",
           title: 'Taiwan Photos',
           description: "photos from trips around Taiwan",
@@ -441,7 +456,7 @@ ninja.data = [{
               window.location.href = "/photography/thailand_photos/";
             },},{id: "galleries-uk-photos",
           title: 'UK Photos',
-          description: "Mostly birdwatching around Oxfordshire but also London, North Yorkshire Moors, Pembrokeshire, and others.",
+          description: "Mostly birdwatching around Oxfordshire but also London, Dorset, Norfolk, North Yorkshire Moors, Pembrokeshire, and others.",
           section: "Galleries",handler: () => {
               window.location.href = "/photography/uk_photos/";
             },},{id: "news-a-simple-inline-announcement",
