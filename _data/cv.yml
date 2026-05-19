@@ -2,7 +2,7 @@ cv:
   name: David A. Simon
   label: DPhil Candidate in Astrophysics
   email: david.simon@physics.ox.ac.uk
-  phone: "+44 7902 472160"
+  # phone: "+44 7902 472160"
   # location: Oxford, UK
   # image: ""
   # summary: ""

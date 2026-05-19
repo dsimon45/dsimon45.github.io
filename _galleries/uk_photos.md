@@ -1,6 +1,6 @@
 ---
 title: UK Photos
-description: Mostly birdwatching around Oxfordshire but also London, North Yorkshire Moors, Pembrokeshire, and others.
+description: Mostly birdwatching around Oxfordshire but also London, Dorset, Norfolk, North Yorkshire Moors, Pembrokeshire, and others.
 img: assets/img/big_ben.jpg
 importance: 1
 folder: /assets/img/photography/uk

@@ -1,6 +1,6 @@
 ---
 title: China Photos
-description: photos from trips around China
+description: photos from many short trips from Bejing including Xi'an, Tianjin, Luoyang, Shenyang, Hangzhou and more.
 img: assets/img/china.jpg
 importance: 2
 folder: /assets/img/photography/china
