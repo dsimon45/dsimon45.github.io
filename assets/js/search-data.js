@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "Click the PDF icon to download a copy.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -441,7 +441,7 @@ ninja.data = [{
               window.location.href = "/photography/thailand_photos/";
             },},{id: "galleries-uk-photos",
           title: 'UK Photos',
-          description: "photos from trips around the UK",
+          description: "Mostly birdwatching around Oxfordshire but also London, North Yorkshire Moors, Pembrokeshire, and others.",
           section: "Galleries",handler: () => {
               window.location.href = "/photography/uk_photos/";
             },},{id: "news-a-simple-inline-announcement",
