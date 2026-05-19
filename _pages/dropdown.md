@@ -10,4 +10,7 @@ children:
   - title: divider
   - title: favorite things
     permalink: /favorite-things/
+  - title: divider
+  - title: fun facts
+    permalink: /fun-facts/
 ---

@@ -151,8 +151,42 @@
     <!-- Journal/Book title and date -->
     {% assign proceedings = 'inproceedings,incollection' | split: ',' %}
     {% assign thesis = 'thesis,mastersthesis,phdthesis' | split: ',' %}
+    {% comment %}
+      Expand common AASTeX journal macros (e.g. `\apjs` → `ApJS`) so ADS-pasted entries
+      with `journal = {\macro}` render the proper abbreviation. Order matters — longer
+      macros must come before shorter ones that share a prefix (e.g. \apjl before \apj).
+    {% endcomment %}
+    {% assign journal_clean = entry.journal
+      | replace: '\apjl', 'ApJL'
+      | replace: '\apjs', 'ApJS'
+      | replace: '\apj',  'ApJ'
+      | replace: '\aj',   'AJ'
+      | replace: '\aapr', 'A&A Rev.'
+      | replace: '\aaps', 'A&AS'
+      | replace: '\aap',  'A&A'
+      | replace: '\araa', 'ARA&A'
+      | replace: '\mnras', 'MNRAS'
+      | replace: '\nat',  'Nature'
+      | replace: '\pasp', 'PASP'
+      | replace: '\pasj', 'PASJ'
+      | replace: '\physrep', 'Phys. Rep.'
+      | replace: '\prd',  'Phys. Rev. D'
+      | replace: '\prl',  'Phys. Rev. Lett.'
+      | replace: '\pra',  'Phys. Rev. A'
+      | replace: '\prb',  'Phys. Rev. B'
+      | replace: '\prc',  'Phys. Rev. C'
+      | replace: '\pre',  'Phys. Rev. E'
+      | replace: '\jcap', 'JCAP'
+      | replace: '\sci',  'Science'
+      | replace: '\solphys', 'Sol. Phys.'
+      | replace: '\ssr',  'Space Sci. Rev.'
+      | replace: '\icarus', 'Icarus'
+      | replace: '\memsai', 'Mem. Soc. Astron. Italiana'
+      | replace: '\nar',  'New A Rev.'
+      | replace: '\na',   'New A'
+    %}
     {% if entry.type == 'article' %}
-      {% capture entrytype %}<em>{{ entry.journal }}</em>{% endcapture %}
+      {% capture entrytype %}<em>{{ journal_clean }}</em>{% endcapture %}
     {% elsif proceedings contains entry.type %}
       {% capture entrytype %}<em>In {{ entry.booktitle }}</em>{% endcapture %}
     {% elsif thesis contains entry.type %}
