@@ -1,6 +1,6 @@
 ---
 title: Italy Photos
-description: photos from trips around Italy
+description: Photos from Padua and Catania.
 img: assets/img/italy.jpg
 importance: 6
 folder: /assets/img/photography/italy

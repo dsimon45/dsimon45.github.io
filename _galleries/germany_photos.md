@@ -1,6 +1,6 @@
 ---
 title: Germany Photos
-description: photos from trips around Germany
+description: Just a few photos from my time in Germany.
 img: assets/img/germany.jpg
 importance: 7
 folder: /assets/img/photography/germany

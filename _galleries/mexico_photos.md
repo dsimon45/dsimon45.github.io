@@ -1,6 +1,6 @@
 ---
 title: Mexico Photos
-description: photos from trips around Mexico
+description: Photos from Mexico City.
 img: assets/img/mexico.jpg
 importance: 8
 folder: /assets/img/photography/mexico

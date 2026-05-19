@@ -1,6 +1,6 @@
 ---
 title: Thailand Photos
-description: photos from trips around Thailand
+description: Photos from Bangkok and Krabi.
 img: assets/img/thailand.jpg
 importance: 4
 folder: /assets/img/photography/thailand

@@ -1,7 +1,7 @@
 ---
 title: India Photos
-description: photos from trips around India
-img: assets/img/3.jpg
+description: Photos from my first India trip. Hopefully many more to come.
+img: assets/img/india.jpg
 importance: 3
 folder: /assets/img/photography/india
 # See _galleries/uk_photos.md for caption options.
