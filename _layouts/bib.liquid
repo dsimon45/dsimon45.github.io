@@ -236,12 +236,13 @@
       {% endif %}
       {% assign arxiv_id = entry.arxiv | default: entry.eprint %}
       {% if arxiv_id %}
-        <a href="https://arxiv.org/abs/{{ arxiv_id }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
+        <a href="https://arxiv.org/abs/{{ arxiv_id }}" class="btn btn-sm z-depth-0" role="button" style="background-color: #b31b1b; color: #ffffff; border-color: #b31b1b;">arXiv</a>
       {% endif %}
       {% if entry.hal %}
         <a href="https://hal.science/{{ entry.hal }}" class="btn btn-sm z-depth-0" role="button">HAL</a>
       {% endif %}
-      <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+      {% comment %} Bib button temporarily hidden. Restore by uncommenting the line below. {% endcomment %}
+      {% comment %}<a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>{% endcomment %}
       {% if entry.html %}
         {% if entry.html contains '://' %}
           <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
