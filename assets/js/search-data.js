@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-photography",
           title: "photography",
-          description: "a growing collection of photos from places I&#39;ve been",
+          description: "A growing collection of photos from places I&#39;ve been. Almost all are unedited. A few are even good.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/photography/";
@@ -87,37 +87,42 @@ ninja.data = [{
               window.location.href = "/books/the_godfather/";
             },},{id: "galleries-china-photos",
           title: 'China Photos',
-          description: "photos from many short trips from Bejing including Xi&#39;an, Tianjin, Luoyang, Shenyang, Hangzhou and more.",
+          description: "Photos from many short trips including Beijing, Xi&#39;an, Tianjin, Luoyang, Shenyang, Hangzhou and more.",
           section: "Galleries",handler: () => {
               window.location.href = "/photography/china_photos/";
+            },},{id: "galleries-europe-photos",
+          title: 'Europe Photos',
+          description: "Various pictures from Iceland, Lithuania, Luxembourg, San Marino, Portugal, Belgium, and others.",
+          section: "Galleries",handler: () => {
+              window.location.href = "/photography/europe_photos/";
             },},{id: "galleries-germany-photos",
           title: 'Germany Photos',
-          description: "photos from trips around Germany",
+          description: "Just a few photos from my time in Germany.",
           section: "Galleries",handler: () => {
               window.location.href = "/photography/germany_photos/";
             },},{id: "galleries-india-photos",
           title: 'India Photos',
-          description: "photos from trips around India",
+          description: "Photos from my first India trip. Hopefully many more to come.",
           section: "Galleries",handler: () => {
               window.location.href = "/photography/india_photos/";
             },},{id: "galleries-italy-photos",
           title: 'Italy Photos',
-          description: "photos from trips around Italy",
+          description: "Photos from Padua and Catania.",
           section: "Galleries",handler: () => {
               window.location.href = "/photography/italy_photos/";
             },},{id: "galleries-mexico-photos",
           title: 'Mexico Photos',
-          description: "photos from trips around Mexico",
+          description: "Photos from Mexico City.",
           section: "Galleries",handler: () => {
               window.location.href = "/photography/mexico_photos/";
             },},{id: "galleries-taiwan-photos",
           title: 'Taiwan Photos',
-          description: "photos from trips around Taiwan",
+          description: "Memories from a short trip to Taiwan at the start of 2024.",
           section: "Galleries",handler: () => {
               window.location.href = "/photography/taiwan_photos/";
             },},{id: "galleries-thailand-photos",
           title: 'Thailand Photos',
-          description: "photos from trips around Thailand",
+          description: "Photos from Bangkok and Krabi.",
           section: "Galleries",handler: () => {
               window.location.href = "/photography/thailand_photos/";
             },},{id: "galleries-uk-photos",
