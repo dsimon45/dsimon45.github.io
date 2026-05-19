@@ -1,189 +1,225 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  name: David A. Simon
+  label: DPhil Candidate in Astrophysics
+  email: david.simon@physics.ox.ac.uk
+  phone: "+44 7902 472160"
+  # location: Oxford, UK
+  # image: ""
+  # summary: ""
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
     - network: LinkedIn
-      username: example
+      username: # add LinkedIn handle
+    # - network: GitHub
+    #   username:
+    # - network: X
+    #   username:
 
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+  # address:
+  #   street:
+  #   city: Oxford
+  #   region:
+  #   postalCode:
+  #   countryCode: GB
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: University of Oxford, Wolfson College
+        location: Oxford, UK
+        area: Astrophysics
+        studyType: DPhil
+        start_date: 2021
+        end_date: 2025
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: University of Oxford, Pembroke College
+        location: Oxford, UK
+        area: Mathematical and Theoretical Physics
+        studyType: MSc
+        start_date: 2020
+        end_date: 2021
+
+      - institution: Boston University
+        location: Boston, MA, USA
+        area: Physics (with honors) & Mathematics
+        studyType: B.A.
+        start_date: 2016
+        end_date: 2020
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - position: Dynamical Modelling of Galactic Kinematics using Neural Networks
+        company: University of Oxford
+        start_date: 2024-01
+        end_date: Present
         highlights:
-          - Relativity
-          - Description 2.
+          - Built a convolutional neural network and multi-layer perceptron machine learning model that predicts galaxy kinematics to within 1% accuracy
+          - Sped up the running time of the architecture over previous models by a factor of 300
+          - Decreased training set generation time by a factor of 20
+          - "**Skills:** PyTorch, GPU Cluster, Machine Learning"
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - position: Recovering the Line of Sight Velocity Distribution of Early-Type Galaxies
+        company: University of Oxford
+        start_date: 2023-07
+        end_date: Present
         highlights:
-          - Description 1.
-          - Description 2.
+          - Initialized and ran N-body simulations mimicking early-type galaxies using a super computer
+          - Created mock photometry / integral field observations of the galaxies with realistic noise and systematics
+          - Developed a set of community standards for measuring galaxy kinematics
+          - "**Skills:** Statistics, Super Computing, Simulations, Jupyter"
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - position: Consultant
+        company: Oxford Strategy Group
+        start_date: 2023-04
+        end_date: 2023-06
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Studied different data monetization strategies for a major online media company
+          - Designed, issued, and analyzed a survey that studied customer preferences
+          - "**Skills:** MS Office, Market Research, Data Monetization"
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - position: Measuring the Supermassive Black Hole in M87
+        company: University of Oxford
+        start_date: 2021-10
+        end_date: 2023-03
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Determined the mass of the supermassive black hole in M87 to be 25% larger than previously believed
+          - Pioneered a new technique to measure the stellar density of galaxies, revealing a discrepancy with previous assumptions of a factor of 2
+          - Developed new modeling techniques allowing for realistic dynamical modeling of galaxy kinematics
+          - "**Skills:** MCMC, Python, Differential Equations, LaTeX"
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - position: Quasi-Normal Modes and Black Holes
+        company: University of Oxford
+        start_date: 2020-10
+        end_date: 2021-06
+        highlights:
+          - Modified existing mathematical methods to study a black hole quasinormal-mode toy model
+          - Numerically solved and created visualizations of quasinormal modes
+          - "**Skills:** Mathematica, Data Visualization, Special Functions"
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    Leadership:
+      - position: Undergraduate Learning Assistant
+        company: Boston University
+        start_date: 2018-09
+        end_date: 2020-05
+        highlights:
+          - Ran weekly discussion sections with a graduate teaching fellow for 5 undergraduate physics courses
+          - Wrote weekly discussion worksheets used by ~40 students
+          - Hosted weekly office hours and end-of-term review sessions
+          - Conducted and evaluated interviews with learning assistant applicants
+
+      - position: Peer Mentor
+        company: Boston University
+        start_date: 2018-09
+        end_date: 2020-05
+        highlights:
+          - Mentored 7 physics and mathematics undergraduate students
+          - Helped students create short- and long-term goals and implemented a plan to achieve them
+          - Evaluated academic progress and identified new habits and resources that improved performance
+
+      - position: "Cosmos and Canvas: Using Data Visualization to Explore and Communicate Your Science"
+        company: Astrophysics Department, University of Oxford
+        start_date: 2022
+        end_date: 2022
+        summary: Organized and attended a one-day workshop (December 2022) teaching astrophysicists how to take raw astrophysical observations and colorize them for public outreach and improved visual literacy.
+
+    Presentations:
+      # Oral Presentations
+      - title: "Dynamical Modelling of Galactic Kinematics using Neural Networks (oral)"
+        awarder: Machine Learning for Astrophysics 2024 Conference
+        date: 2024-07
+
+      - title: "Dynamical Modelling of Galactic Kinematics using Neural Networks (invited talk)"
+        awarder: Tsinghua University
+        date: 2024-04
+
+      - title: "Dynamical Modelling of Galactic Kinematics using Neural Networks (invited talk)"
+        awarder: Shanghai Astronomical Observatory
+        date: 2024-04
+
+      - title: "Dynamical Modelling of Galactic Kinematics using Neural Networks (invited talk)"
+        awarder: Shanghai Jiaotong University
+        date: 2024-04
+
+      - title: "Dynamical Modelling of Galactic Kinematics using Neural Networks (invited talk)"
+        awarder: Nanjing University
+        date: 2024-03
+
+      - title: "Revealing the Stellar Center of M87 with Integral Field Spectroscopy: Effects on the Black Hole Mass (oral)"
+        awarder: European Astronomical Society Annual Meeting
+        date: 2023-07
+
+      # Poster Presentations
+      - title: "Dynamical Modelling of Galactic Kinematics with Neural Networks (poster)"
+        awarder: European Astronomical Society Annual Meeting
+        date: 2024-07
+
+      - title: "Recovering the Line of Sight Velocity Distribution and Mass Distribution in Simulated Early-Type Galaxies (poster)"
+        awarder: European Astronomical Society Annual Meeting
+        date: 2024-07
+
+      - title: "Anchoring Black Hole Relations in the Local Universe: The Case of M87 (poster)"
+        awarder: National Astronomy Meeting
+        date: 2023-06
+
+    # ----------------------------------------------------------------------------
+    # The sections below are commented out because they are not in the current CV.
+    # Uncomment and fill in if you'd like them to appear.
+    # ----------------------------------------------------------------------------
+
+    # Volunteer:
+    #   - company:
+    #     position:
+    #     location:
+    #     start_date:
+    #     end_date:
+    #     summary:
+    #     highlights:
+    #       -
+
+    # Awards:
+    #   - title:
+    #     date:
+    #     awarder:
+    #     url:
+    #     summary:
+
+    # Publications:
+    #   - title:
+    #     authors:
+    #       -
+    #     publisher:
+    #     releaseDate:
+    #     url:
+    #     summary:
+
+    # Skills:
+    #   - name:
+    #     level:
+    #     icon:
+    #     keywords:
+
+    # Languages:
+    #   - name:
+    #     summary:
+
+    # Interests:
+    #   - name:
+    #     icon:
+    #     keywords:
+
+    # Certificates:
+    #   - name:
+    #     date:
+    #     issuer:
+    #     icon:
+
+    # Projects:
+    #   - name:
+    #     summary:
+    #     highlights:
+    #       -
+    #     start_date:
+    #     end_date:
+
+    # References:
+    #   - name:
+    #     icon:
+    #     reference:

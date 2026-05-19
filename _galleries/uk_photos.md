@@ -1,7 +1,7 @@
 ---
 title: UK Photos
-description: photos from trips around the UK
-img: assets/img/1.jpg
+description: Mostly birdwatching around Oxfordshire but also London, North Yorkshire Moors, Pembrokeshire, and others.
+img: assets/img/big_ben.jpg
 importance: 1
 folder: /assets/img/photography/uk
 # Option 1: auto-discover all images in `folder` above (default).

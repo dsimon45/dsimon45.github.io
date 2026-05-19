@@ -1,7 +1,7 @@
 ---
 title: Thailand Photos
 description: photos from trips around Thailand
-img: assets/img/4.jpg
+img: assets/img/thailand.jpg
 importance: 4
 folder: /assets/img/photography/thailand
 # See _galleries/uk_photos.md for caption options.
