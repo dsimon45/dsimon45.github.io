@@ -1,16 +1,16 @@
 ---
 layout: page
-title: misc
+title: Misc
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: academic family tree
+  - title: Academic Family Tree
     permalink: /academic-family-tree/
   - title: divider
-  - title: favorite things
+  - title: Favorite Things
     permalink: /favorite-things/
   - title: divider
-  - title: fun facts
+  - title: Fun Facts
     permalink: /fun-facts/
 ---

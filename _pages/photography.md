@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /photography/
-title: photography
+title: Photography
 description: A growing collection of photos from places I've been. Almost all are unedited. A few are even good. 
 nav: true
 nav_order: 6

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /academic-family-tree/
-title: academic family tree
+title: Academic Family Tree
 description: my academic lineage
 nav: false
 ---
