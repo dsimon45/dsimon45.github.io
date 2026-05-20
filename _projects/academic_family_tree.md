@@ -1,9 +1,10 @@
 ---
 layout: page
-permalink: /academic-family-tree/
 title: Academic Family Tree
 description: my academic lineage
-nav: false
+img:
+importance: 1
+category: fun
 ---
 
 ## Sample heading

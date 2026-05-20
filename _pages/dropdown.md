@@ -5,12 +5,13 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: Academic Family Tree
-    permalink: /academic-family-tree/
+  # Favorite Things temporarily hidden — uncomment the two lines below to restore.
+  # - title: Favorite Things
+  #   permalink: /favorite-things/
+  # - title: divider
+  - title: About this Website
+    permalink: /about-this-website/
   - title: divider
-  - title: Favorite Things
-    permalink: /favorite-things/
-  - title: divider
-  - title: Fun Facts
-    permalink: /fun-facts/
+  - title: Wrong David?
+    permalink: /wrong-david/
 ---
