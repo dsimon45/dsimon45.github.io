@@ -2,7 +2,7 @@
 layout: page
 title: Academic Family Tree
 description: my academic lineage
-img:
+img: assets/img/projects/marinoni.jpg
 importance: 1
 category: fun
 ---
