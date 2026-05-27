@@ -28,6 +28,12 @@ Vienna was the seat of the Holy Roman Empire and the Austrian Empire after it.
 ## Academic Family Tree
 
 
+{% include figure.liquid path="assets/img/academic_family/la_specula.jpg" title="full width example" class="img-fluid rounded z-depth-1" %}
+<div class="caption">
+  "La Specola di Padova" by Ivanfurlanis, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Padova_Specola_060907.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+</div>
+
+
 # The Padovans (~1920 - 2000)
 ## The Center of Astronomy in Italy
 The University of Padua occupies a special place in world history and an even more special place in the history of Astronomy. The fifth oldest univeresity in the world (second in Italy to the University of Bologna). In fact, the founding legend is quite close to that of Cambridge. It is said that in 1222 the University was bounded by a group of students who left the University of Bologna in search of more academic freedom. 
@@ -39,11 +45,23 @@ The connection with Galileo
 ## Academic Family Tree
 
 ### Bruno Rossi
-[Bruno Rossi](https://en.wikipedia.org/wiki/Bruno_Rossi) is perhaps the most well known of the Padovans in my academic family tree due to the simple fact that he was a member of the Manhattan project. Born in Venice, Rossi attended the University of Padua for his undergraduate degree, followed by his postgraduate studies at the University of Bologna in 1927. He was advised by Quirino Majorana.
+<div class="row">
+  <div class="col-sm-7">
+    <p>
+        [Bruno Rossi](https://en.wikipedia.org/wiki/Bruno_Rossi) is perhaps the most well known of the Padovans in my academic family tree due to the simple fact that he was a member of the Manhattan project. Born in Venice, Rossi attended the University of Padua for his undergraduate degree, followed by his postgraduate studies at the University of Bologna in 1927. He was advised by Quirino Majorana.
 
-Rossi returned to Padua in 1932 as a professor, where he oversaw the construction of the new Physics Institute. He remained there until 1938 when, due to the racial laws put forward by government of Mussolini, Rossi was dismissed from his professorship. At this point, he left Italy, first for Manchester, and later the US.
+        Rossi returned to Padua in 1932 as a professor, where he oversaw the construction of the new Physics Institute. He remained there until 1938 when, due to the racial laws put forward by government of Mussolini, Rossi was dismissed from his professorship. At this point, he left Italy, first for Manchester, and later the US.
 
-In 1946 with the end of the war, Rossi moved to MIT, where he would remain the rest of his life.
+        In 1946 with the end of the war, Rossi moved to MIT, where he would remain the rest of his life.
+    </p>
+  </div>
+  <div class="col-sm-5">
+    {% include figure.liquid path="assets/img/academic_family/Bruno_B_Rossi.jpg" title="Bruno Rossi" class="img-fluid rounded z-depth-1" %}
+    <div class="caption">
+      By Massachusetts Institute of Technology - Wikipedia, [CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=4887356)
+    </div>
+  </div>
+</div>
 
 ### Leonida Rosino
 [Leonida Rosino](https://en.wikipedia.org/wiki/Leonida_Rosino) was born in Treviso, Italy. He finished his postgraduate studies at the University of Padua in 1938. The same year that his advisor, Bruno Rossi, would leave. He spent the next 15 years in the University of Bologna before return to Padua.
@@ -56,22 +74,7 @@ In 1946 with the end of the war, Rossi moved to MIT, where he would remain the r
 ### Michele Cappellari
 [Michele Cappellari](https://users.physics.ox.ac.uk/~cappellari/) 
 
-<div class="row">
-  <div class="col-sm-7">
-    <p>
-      This paragraph sits next to a right-aligned image. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-    </p>
-    <p>
-      Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
-    </p>
-  </div>
-  <div class="col-sm-5">
-    {% include figure.liquid path="assets/img/prof_pic.jpg" title="example caption" class="img-fluid rounded z-depth-1" %}
-    <div class="caption">
-      A right-aligned image with a one-line caption beneath it.
-    </div>
-  </div>
-</div>
+
 
 ### Subheading
 
