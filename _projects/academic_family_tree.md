@@ -30,7 +30,7 @@ Vienna was the seat of the Holy Roman Empire and the Austrian Empire after it.
 
 {% include figure.liquid path="assets/img/academic_family/la_specula.jpg" title="full width example" class="img-fluid rounded z-depth-1" %}
 <div class="caption">
-  "La Specola di Padova" by Ivanfurlanis, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Padova_Specola_060907.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+  "La Specola di Padova" by Ivanfurlanis, <a href="https://commons.wikimedia.org/wiki/File:Padova_Specola_060907.jpg">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>
 </div>
 
 
@@ -49,16 +49,18 @@ The connection with Galileo
   <div class="col-sm-7">
     <p>
         [Bruno Rossi](https://en.wikipedia.org/wiki/Bruno_Rossi) is perhaps the most well known of the Padovans in my academic family tree due to the simple fact that he was a member of the Manhattan project. Born in Venice, Rossi attended the University of Padua for his undergraduate degree, followed by his postgraduate studies at the University of Bologna in 1927. He was advised by Quirino Majorana.
-
+    </p>
+    <p>
         Rossi returned to Padua in 1932 as a professor, where he oversaw the construction of the new Physics Institute. He remained there until 1938 when, due to the racial laws put forward by government of Mussolini, Rossi was dismissed from his professorship. At this point, he left Italy, first for Manchester, and later the US.
-
+    </p>
+    <p>
         In 1946 with the end of the war, Rossi moved to MIT, where he would remain the rest of his life.
     </p>
   </div>
   <div class="col-sm-5">
     {% include figure.liquid path="assets/img/academic_family/Bruno_B_Rossi.jpg" title="Bruno Rossi" class="img-fluid rounded z-depth-1" %}
     <div class="caption">
-      By Massachusetts Institute of Technology - Wikipedia, [CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=4887356)
+      By Massachusetts Institute of Technology - Wikipedia, <a href="https://commons.wikimedia.org/w/index.php?curid=4887356">CC BY-SA 3.0</a>
     </div>
   </div>
 </div>
@@ -76,14 +78,6 @@ The connection with Galileo
 
 
 
-### Subheading
-
-You can also drop a full-width image into the page:
-
-{% include figure.liquid path="assets/img/1.jpg" title="full width example" class="img-fluid rounded z-depth-1" %}
-<div class="caption">
-  Captions work the same way for full-width figures.
-</div>
 
 A short list of advisors and grand-advisors might look like:
 
