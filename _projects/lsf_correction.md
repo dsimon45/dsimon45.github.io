@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LSF Correction
-description: Match the wavelength dependent line spread function of a template spectrum to a target spectrum with this code
+description: Code available [here](https://github.com/dsimon45/LSF_Matching)
 img: assets/img/projects/lsf.png
 importance: 1
 category: work

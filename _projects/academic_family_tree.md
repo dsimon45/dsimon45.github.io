@@ -22,10 +22,41 @@ As of now, this project is incomplete. But as time goes by, I will be filling ea
 Vienna was the seat of the Holy Roman Empire and the Austrian Empire after it. 
 ## Academic Family Tree
 
+### Johann Jakob Marinoni (1676-1755)
+
+
+### Father Joseph Franz (February 1704 - 12 April 1776)
+He joined the Jesuits in 1719 and studied in Vienna where he was later made a professor. Franz established the Jesuit observatory there, which was the first permanent observatory in Vienna. 
+
+
+### Nikolaus Poda von Neuhaus (October 4, 1723 – April 29, 1798)
+Nikolaus Poda von Neuhaus was born in Vienna where he studied before . He is best well known for his work in the field of entomology, though he also became the director of the Graz Observatory. The link between Franz and Poda is circumstantial rather than direct. Poda studied at a variety of institutions, first philosophy in Klagenfurt and then Vienna for mathematics and astronomy in 1748-49. This time learning mathematics and astronomy overlaps with the time Franz was director in Vienna. Furthermore, Poda’s later work on the development of the observatory in Graz perfectly matches the trajectory set by Franz in Vienna. This makes Franz both the likely teacher of Poda of mathematics and astronomy, as well as the person who inspired the trajectory that he took in these fields. 
+
+
+### Gabriel Gruber (4 May 1740 – 7 April 1805)
+
+### Jurij Vega (March 23, 1754 – September 26, 1802)
+
+
+### Ignaz Lindner (1777 - 1835)
+Very little is known about Lindner. He studied at the Imperial-Royal Technical Military Academy before working at the University of Vienna. One likely reason that he is known of at all is due to his student, Andreas von Ettingshausen.
+
+
+### Andreas von Ettinghausen (25 November 1796 – 25 May 1878)
+Von Ettinghausen was born in Heidelberg but went to Vienna for his studies. He succeeded Christian Doppler as director of the Vienna Physical Institute. He wrote a book on physics and a book on combinatorial analysis, a topic that would be important for one of his well known students, Gregor Mendel. Famously, he also introduced the notation (nk) for the binomial coefficient. 
+
+
 # Shifting to Italy (1857 - ~1920)
 ## The Decline of Austria
 
 ## Academic Family Tree
+
+### Pietro Blaserna (February 29 1836 - February 26 1918)
+Von Ettingshausen had many students, including Ernst Mach, Jozef Stefan, and Pietro Blaserna. Pietro Blaserna  grew up in Gorizia, a modern day Italian province on the Slovenian border but, at the time, an Austro-Hungarian province. Blaserna studied physics and math under von Ettinshausen in Vienna but ultimately returned to Italy, taking up a position at the University of Rome. 
+
+### Quirino Majorana (28 October 1871 - 31 July 1957)
+
+The uncle of the more famed Ettore Majorana, he was born in Catania Sicily, and educated at the university of Rome under Pietro Blaserna, who he had a close relationship with. Majorana’s legacy is somewhat complex. He is primarily remembered for having first doubted Einstein’s special theory of relativity, before confirming it himself, as well as for measuring gravitational shielding which failed to be replicated. He tended to work alone, possibly exacerbating his academic isolation.
 
 
 {% include figure.liquid path="assets/img/academic_family/la_specula.jpg" title="full width example" class="img-fluid rounded z-depth-1" %}
@@ -44,7 +75,7 @@ The connection with Galileo
 
 ## Academic Family Tree
 
-### Bruno Rossi
+### Bruno Rossi (13 April 1905 – 21 November 1993)
 <div class="row">
   <div class="col-sm-7">
     <p>
@@ -65,12 +96,12 @@ The connection with Galileo
   </div>
 </div>
 
-### Leonida Rosino
+### Leonida Rosino (19 September 1915 - 31 July 1997)
 [Leonida Rosino](https://en.wikipedia.org/wiki/Leonida_Rosino) was born in Treviso, Italy. He finished his postgraduate studies at the University of Padua in 1938. The same year that his advisor, Bruno Rossi, would leave. He spent the next 15 years in the University of Bologna before return to Padua.
 
 
 
-### Francesco Bertola
+### Francesco Bertola (20 May 1937 - )
 [Francesco Bertola](https://www.ae-info.org/ae/Member/Bertola_Francesco) 
 
 ### Michele Cappellari
