@@ -148,7 +148,7 @@ ninja.data = [{
               window.location.href = "/projects/academic_family_tree/";
             },},{id: "projects-lsf-correction",
           title: 'LSF Correction',
-          description: "Match the wavelength dependent line spread function of a template spectrum to a target spectrum with this code",
+          description: "Code available [here](https://github.com/dsimon45/LSF_Matching)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/lsf_correction/";
             },},{id: "projects-mentalmath",
