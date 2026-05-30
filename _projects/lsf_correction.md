@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LSF Correction
-description: Code available [here](https://github.com/dsimon45/LSF_Matching)
+description: Publicly Available Code to Match the LSF of a Template Spectrum to a Target Spectrum
 img: assets/img/projects/lsf.png
 importance: 1
 category: work

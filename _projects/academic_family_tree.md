@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Academic Family Tree
-description: my academic lineage
+description: Four Centuries of My Academic Lineage
 img: assets/img/projects/marinoni.jpg
 importance: 1
 category: fun
@@ -69,20 +69,19 @@ The uncle of the more famed Ettore Majorana, he was born in Catania Sicily, and 
 ## The Center of Astronomy in Italy
 The University of Padua occupies a special place in world history and an even more special place in the history of Astronomy. The fifth oldest univeresity in the world (second in Italy to the University of Bologna). In fact, the founding legend is quite close to that of Cambridge. It is said that in 1222 the University was bounded by a group of students who left the University of Bologna in search of more academic freedom. 
 
-The University of Padua boasts among its most famous faculty Galileo Galilei and Tullio Levi-Civita. Galileo needs no introduction. Levi-Civita will be less well known to students outside of mathematical physics. When asked about Italy, Albert Einstein said his favorite things were "spaghetti and Lev-Civita." 
+The University of Padua boasts among its most famous faculty Galileo Galilei and Tullio Levi-Civita. Galileo was the chair professor in mathematics from 1592-1610. It was during this time that he wrote Sidereus Nuncius, his treatise announcing the discovery of the mountains on the moon, and Jupiter's moons. It is rumored that he conducted many of his observations from the top of the Specola (in fact, the observatory wasn't built until much after this). Levi-Civita will be less well known to students outside of mathematical physics. When asked about Italy, Albert Einstein said his favorite things were "spaghetti and Lev-Civita." 
 
-The connection with Galileo 
-
+The Specula was long used as the primary astronomical observatory in Padova until the 1930's. It was then that a modern facility was set up in the nearby town of Asiago. This was, for a time, the largest telescope in Europe. 
 ## Academic Family Tree
 
 ### Bruno Rossi (13 April 1905 – 21 November 1993)
 <div class="row">
   <div class="col-sm-7">
     <p>
-        [Bruno Rossi](https://en.wikipedia.org/wiki/Bruno_Rossi) is perhaps the most well known of the Padovans in my academic family tree due to the simple fact that he was a member of the Manhattan project. Born in Venice, Rossi attended the University of Padua for his undergraduate degree, followed by his postgraduate studies at the University of Bologna in 1927. He was advised by Quirino Majorana.
+        [Bruno Rossi](https://en.wikipedia.org/wiki/Bruno_Rossi) is perhaps the most well known of the Padovans in my academic family tree due to the fact that he was a member of the Manhattan project. Born in Venice, Rossi attended the University of Padua for his undergraduate degree, followed by his postgraduate studies at the University of Bologna in 1927. He was advised by Quirino Majorana, Uncle to the more well known Ettore Majorana.
     </p>
     <p>
-        Rossi returned to Padua in 1932 as a professor, where he oversaw the construction of the new Physics Institute. He remained there until 1938 when, due to the racial laws put forward by government of Mussolini, Rossi was dismissed from his professorship. At this point, he left Italy, first for Manchester, and later the US.
+        Rossi returned to Padua in 1932 as a professor, where he oversaw the construction of the new Physics Institute. He remained there as director until 1938 when, due to the racial laws put forward by government of Mussolini, Rossi was dismissed from his professorship. He left Italy, first for Manchester, and later the US.
     </p>
     <p>
         In 1946 with the end of the war, Rossi moved to MIT, where he would remain the rest of his life.
@@ -102,9 +101,12 @@ The connection with Galileo
 
 
 ### Francesco Bertola (20 May 1937 - )
-[Francesco Bertola](https://www.ae-info.org/ae/Member/Bertola_Francesco) 
+[Francesco Bertola](https://www.ae-info.org/ae/Member/Bertola_Francesco) was born in Padova, completed his studies in Padova, and became a professor at Padova where he remained his entire career apart from a two year stint at the University of Lecce (1972-74). 
 
-### Michele Cappellari
+His early work, similar to Rosino, focused on supernovae. But he soon shifted to galaxies, studying their mass and dynamics. One of his key contributions was [Bertola & Capaccioli 1975](https://ui.adsabs.harvard.edu/abs/1975ApJ...200..439B/abstract) where he measured the first rotation curve of an elliptical galaxy using . This would be the first in a long series 
+
+
+### Michele Cappellari 
 [Michele Cappellari](https://users.physics.ox.ac.uk/~cappellari/) 
 
 
