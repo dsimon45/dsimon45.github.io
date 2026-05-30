@@ -143,12 +143,17 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-academic-family-tree",
           title: 'Academic Family Tree',
-          description: "my academic lineage",
+          description: "Four Centuries of My Academic Lineage",
           section: "Projects",handler: () => {
               window.location.href = "/projects/academic_family_tree/";
+            },},{id: "projects-dphil-thesis",
+          title: 'DPhil Thesis',
+          description: "A Copy of my DPhil Thesis",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dphil_thesis/";
             },},{id: "projects-lsf-correction",
           title: 'LSF Correction',
-          description: "Code available [here](https://github.com/dsimon45/LSF_Matching)",
+          description: "Publicly Available Code to Match the LSF of a Template Spectrum to a Target Spectrum",
           section: "Projects",handler: () => {
               window.location.href = "/projects/lsf_correction/";
             },},{id: "projects-mentalmath",
