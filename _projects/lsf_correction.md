@@ -7,6 +7,9 @@ importance: 1
 category: work
 ---
 
+#TL;DR
+I developed an algorithm to match an arbitrary LSF of a template spectrum to a target spectrum. Example code showing this publicly available [here](https://github.com/dsimon45/LSF_Matching/).
+
 # Why Care about Line Spread Functions?
 Spectrographs don't return a perfect picture of a galaxy's spectrum. There is noise, from the sky, source, and detector. And then there is the line spread function (also called the spectral point spread function). The line spread function is a measure of how single spectral lines are broadened, not due to the source itself being broad, but due to the instrument. This artificial broadening must be taken account of when doing things like measuring kinematics since broadening from the LSF can look like kinematic broadening. 
 
