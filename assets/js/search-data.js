@@ -148,7 +148,7 @@ ninja.data = [{
               window.location.href = "/projects/academic_family_tree/";
             },},{id: "projects-dphil-thesis",
           title: 'DPhil Thesis',
-          description: "A Copy of my DPhil Thesis",
+          description: "A Copy of my DPhil Thesis with a Little Bit of Story Telling",
           section: "Projects",handler: () => {
               window.location.href = "/projects/dphil_thesis/";
             },},{id: "projects-lsf-correction",
